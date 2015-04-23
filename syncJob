@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+
+30 */3 * * *	jboss	sh /opt/jboss/rsync/scripts/rsync_to_047
